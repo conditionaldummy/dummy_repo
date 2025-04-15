@@ -1,5 +1,3 @@
-# Conditional Distribution Compression via the Kernel Conditional Mean Embedding
-
 This repository provides a python package to construct compressed sets targeting the JMMD and the AMCMD. The code is based on that found [here](https://github.com/gchq/coreax).
 
 ### Installation
