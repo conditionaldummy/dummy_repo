@@ -7,9 +7,9 @@ It contains code to run the experiments in [Conditional Distribution Compression
 
 To install with pip, download the repository and run `pip install .` in the repository's root folder. It is recommended to do so in a fresh virtual environment to ensure correct package versions are installed. 
 
-Coreax defaults to installing CPU-only JAX, if one has access to a GPU, after installation of Coreax, run `pip install -U "jax[cuda12]"`.
+Coreax defaults to installing CPU-only JAX, if one has access to a GPU, after installation of Coreax run `pip install -U "jax[cuda12]"`.
 
-Coreax does not come packaged with `pandas`: in order to run the real data experiments, `pandas` must be installed.
+Coreax does not come packaged with pandas, in order to run the real data experiments, pandas must be installed.
 
 ### Instructions 
 
