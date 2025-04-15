@@ -9,4 +9,4 @@ To install with pip, download the repository and run `pip install .` in the repo
 
 ### Instructions 
 
-In order to run the experiments, place `run_experiments.sh` in the same folder as the various experiment python scripts, and from a terminal in the relevant folder, run `chmod +x /run_experiments.sh` followed by `./run_experiments.sh`.
+In order to run the experiments, first downlaod the supplmenetal material and place `run_experiments.sh` in the same folder as the various experiment python scripts. Then, from a terminal in the relevant folder, run `chmod +x /run_experiments.sh` followed by `./run_experiments.sh`.
