@@ -12,4 +12,4 @@ In order to run the experiments, first download the supplemental material ensuri
 
 Note that these experiments took around 24 hours to run on GPU. To increase speed, consider reducing the size of the compressed set generated, or the size of the target dataset.
 
-Figures can be generated using the provided notebook.
+Figures can be generated using the provided notebook, and the `.npy` files produced by the experiment scripts.
